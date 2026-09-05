@@ -1,0 +1,105 @@
+{
+  "feeds": {
+    "anderson-koch-ford": {
+      "last_updated": "2026-09-05",
+      "rows": 215
+    },
+    "bachmans": {
+      "last_updated": "2026-09-05",
+      "rows": 1592
+    },
+    "borton-volvo": {
+      "last_updated": "2026-09-05",
+      "rows": 341
+    },
+    "candyland": {
+      "last_updated": "2026-09-05",
+      "rows": 394
+    },
+    "carlson-toyota": {
+      "last_updated": "2026-09-05",
+      "rows": 503
+    },
+    "dahl-cdjr-rhinelander": {
+      "last_updated": "2026-09-05",
+      "rows": 53
+    },
+    "dahl-cdjr-rochester": {
+      "last_updated": "2026-09-05",
+      "rows": 87
+    },
+    "dahl-cdjr-stevens-point": {
+      "last_updated": "2026-09-05",
+      "rows": 71
+    },
+    "dahl-chevrolet-winona": {
+      "last_updated": "2026-09-05",
+      "rows": 88
+    },
+    "dahl-ford-onalaska": {
+      "last_updated": "2026-09-05",
+      "rows": 105
+    },
+    "dahl-gmc-winona": {
+      "last_updated": null,
+      "rows": null
+    },
+    "dahl-honda-onalaska": {
+      "last_updated": "2026-09-05",
+      "rows": 87
+    },
+    "dahl-honda-rhinelander": {
+      "last_updated": "2026-09-05",
+      "rows": 50
+    },
+    "dahl-honda-sheboygan": {
+      "last_updated": "2026-09-05",
+      "rows": 88
+    },
+    "dahl-honda-stevens-point": {
+      "last_updated": "2026-09-05",
+      "rows": 67
+    },
+    "dahl-hyundai-rochester": {
+      "last_updated": "2026-09-05",
+      "rows": 103
+    },
+    "dahl-mazda": {
+      "last_updated": "2026-09-05",
+      "rows": 171
+    },
+    "dahl-subaru-sheboygan": {
+      "last_updated": "2026-09-05",
+      "rows": 26
+    },
+    "dahl-toyota-sheboygan": {
+      "last_updated": "2026-09-05",
+      "rows": 74
+    },
+    "dahl-toyota-winona": {
+      "last_updated": "2026-09-05",
+      "rows": 70
+    },
+    "mankato-motors": {
+      "last_updated": "2026-09-05",
+      "rows": 233
+    },
+    "olivia-chrysler": {
+      "last_updated": "2026-09-05",
+      "rows": 137
+    },
+    "park-chrysler-jeep": {
+      "last_updated": "2026-09-05",
+      "rows": 357
+    },
+    "st-cloud-toyota": {
+      "last_updated": "2026-09-05",
+      "rows": 304
+    },
+    "white-bear-lincoln": {
+      "last_updated": "2026-09-05",
+      "rows": 194
+    }
+  },
+  "generated": "2026-09-05"
+}
